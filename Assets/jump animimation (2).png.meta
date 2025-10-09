@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 0d90c63f63814e54fad5ecf2cf8e5a16
+guid: 0b6a473a8989e514092aee7d9a518d31
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2733888003703498314
-    second: knight animation final_0
+      213: -394491438598524361
+    second: jump animimation (2)_0
   - first:
-      213: -2460913781235473518
-    second: knight animation final_1
+      213: -5165149559276802878
+    second: jump animimation (2)_1
   - first:
-      213: 3537917988366772827
-    second: knight animation final_2
+      213: -4723126779317119794
+    second: jump animimation (2)_2
   - first:
-      213: -4540921887477726387
-    second: knight animation final_3
+      213: -625230728293818185
+    second: jump animimation (2)_3
   - first:
-      213: 2155115276605946069
-    second: knight animation final_4
+      213: 441406937917472515
+    second: jump animimation (2)_4
   - first:
-      213: 6903356713478309031
-    second: knight animation final_5
+      213: 2641490498433570299
+    second: jump animimation (2)_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -154,13 +154,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: knight animation final_0
+      name: jump animimation (2)_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 21
-        width: 74
-        height: 56
+        x: 134
+        y: 179
+        width: 76
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b91d8b68574f0ad0800000000000000
-      internalID: -2733888003703498314
+      spriteID: 732f66f602c768af0800000000000000
+      internalID: -394491438598524361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight animation final_1
+      name: jump animimation (2)_1
       rect:
         serializedVersion: 2
-        x: 135
-        y: 19
-        width: 71
-        height: 57
+        x: 542
+        y: 183
+        width: 92
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 293a89654f319ddd0800000000000000
-      internalID: -2460913781235473518
+      spriteID: 2cc6a8b87d3b158b0800000000000000
+      internalID: -5165149559276802878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight animation final_2
+      name: jump animimation (2)_2
       rect:
         serializedVersion: 2
-        x: 270
-        y: 19
-        width: 74
-        height: 57
+        x: 980
+        y: 199
+        width: 69
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,41 +213,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b5ae01d6aa5391130800000000000000
-      internalID: 3537917988366772827
+      spriteID: ec41ba9e735147eb0800000000000000
+      internalID: -4723126779317119794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight animation final_3
+      name: jump animimation (2)_3
       rect:
         serializedVersion: 2
-        x: 399
-        y: 20
-        width: 75
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d4308182a976bf0c0800000000000000
-      internalID: -4540921887477726387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: knight animation final_4
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 16
-        width: 71
+        x: 1403
+        y: 213
+        width: 69
         height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -257,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d87d100de188ed10800000000000000
-      internalID: 2155115276605946069
+      spriteID: 7b0636917fbb257f0800000000000000
+      internalID: -625230728293818185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knight animation final_5
+      name: jump animimation (2)_4
       rect:
         serializedVersion: 2
-        x: 655
-        y: 18
-        width: 72
-        height: 57
+        x: 1823
+        y: 199
+        width: 69
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,8 +257,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a4cea8fa56adcf50800000000000000
-      internalID: 6903356713478309031
+      spriteID: 30fb6f77541302600800000000000000
+      internalID: 441406937917472515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump animimation (2)_5
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 184
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5d3b4fc9578a420800000000000000
+      internalID: 2641490498433570299
       vertices: []
       indices: 
       edges: []
@@ -289,7 +289,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 65464ad198dc4424c9a9c904fb687ba1
     internalID: 0
     vertices: []
     indices: 
@@ -297,14 +297,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      knight animation final_0: -2733888003703498314
-      knight animation final_1: -2460913781235473518
-      knight animation final_2: 3537917988366772827
-      knight animation final_3: -4540921887477726387
-      knight animation final_4: 2155115276605946069
-      knight animation final_5: 6903356713478309031
+      jump animimation (2)_0: -394491438598524361
+      jump animimation (2)_1: -5165149559276802878
+      jump animimation (2)_2: -4723126779317119794
+      jump animimation (2)_3: -625230728293818185
+      jump animimation (2)_4: 441406937917472515
+      jump animimation (2)_5: 2641490498433570299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

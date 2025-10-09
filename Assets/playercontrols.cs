@@ -1,6 +1,5 @@
 using Unity.VisualScripting;
 using UnityEngine;
-
 public class playercontrols : MonoBehaviour
 {
     public float moveSpeed = 5f;
@@ -8,13 +7,14 @@ public class playercontrols : MonoBehaviour
     public Transform groundCheckPoint;
     public float checkRadius = 0.2f;
     public LayerMask groundLayer;
-
+    Animator anim;
     private Rigidbody2D rb;
     private bool isGrounded;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     private void Update()
@@ -28,6 +28,7 @@ public class playercontrols : MonoBehaviour
         {
             Jump();
         }
+        anim.SetBool("IsOnGround", isGrounded);
     }
          
     private void Jump()
